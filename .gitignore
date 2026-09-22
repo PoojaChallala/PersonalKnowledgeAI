@@ -1,0 +1,15 @@
+# Environment variables / API keys
+.env
+
+# Python virtual environment
+.venv/
+
+# PyCharm settings
+.idea/
+
+# ChromaDB local database
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc

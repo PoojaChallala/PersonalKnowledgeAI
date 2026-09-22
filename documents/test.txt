@@ -1,0 +1,4 @@
+My name is Pooja.
+I studied computer science.
+I am building a personal AI knowledge assistant.
+My project uses retrival augmented generation.
