@@ -13,3 +13,7 @@ chroma_db/
 # Python cache
 __pycache__/
 *.pyc
+
+#User documents
+documents/*
+!documents/.gitkeep

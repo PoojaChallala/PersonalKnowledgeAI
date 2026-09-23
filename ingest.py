@@ -101,5 +101,4 @@ for file in DOCUMENTS_FOLDER.iterdir():
 
         continue
 
-
 print("\nKnowledge base ready!")
